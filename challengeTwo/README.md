@@ -11,7 +11,7 @@ Using Advance CSS techniques we have acquired in class. By the end of this UT-Au
 
 To view my portfolio, click following link.
 
-![demo-lite](C:\Users\Leslie\OneDrive\Desktop\UTA-VIRT-FSF-FT-09-2022-U-LOLC\Folder Challenges\challengeTwo\challengeTwo\images\portfolioVid.gif)
+![demo-lite](C:\Users\Leslie\OneDrive\Desktop\Folder Challenges\challengeTwo\challengeTwo\images\portfolioVid.gif)
 
 ## Credits 
 CodePen CSS Stylesheet courtesy of MATT-MURRAY.
